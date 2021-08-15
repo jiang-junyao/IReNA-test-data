@@ -17,6 +17,7 @@ bulk RNA-seq test data
 **test_data_RNA-seq.txt**: raw counts of bulk RNA-seq
 
 ## ATAC-seq folder
+bam file of each sample, differential peaks file of all samples, footprints file of all samples
 
 **sample1_overlapped.bam, sample2_overlapped.bam, sample3_overlapped.bam**: Bam filtered through Footprints
 
