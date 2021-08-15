@@ -2,7 +2,7 @@
 ## scRNA-seq folder:
 scRNA-seq test data
 
-**test_data_scRNA.txt**: raw counts of
+**seurat_object.rds**: seurat object, use readRDS() to load it
 
 **Kmeans_clustering_ENS.txt**: consequence of add_ENSID() function
 
