@@ -1,7 +1,7 @@
 # IReNA test data
 ## scRNA-seq folder:
-
-**test_data_scRNA.txt**: raw counts of scRNA-seq
+scRNA-seq test data
+**test_data_scRNA.txt**: raw counts of
 
 **Kmeans_clustering_ENS.txt**: consequence of add_ENSID() function
 
