@@ -15,3 +15,11 @@ scRNA-seq test data
 bulk RNA-seq test data
 
 **test_data_RNA-seq.txt**: raw counts of bulk RNA-seq
+
+## ATAC-seq folder
+
+**sample1_overlapped.bam, sample2_overlapped.bam, sample3_overlapped.bam**: Bam filtered through Footprints
+
+**differential_peaks.bed**：differential peaks generated in step8 of [ATAC-seq pipline](https://github.com/jiang-junyao/ATAC-seq-pipline)
+
+**footprints.bed**: footprints file generated in step10 of [ATAC-seq pipline](https://github.com/jiang-junyao/ATAC-seq-pipline)
