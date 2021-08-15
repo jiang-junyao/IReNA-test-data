@@ -19,7 +19,7 @@ bulk RNA-seq test data
 ## ATAC-seq folder
 bam file of each sample, differential peaks file of all samples, footprints file of all samples
 
-**sample1_overlapped.bam, sample2_overlapped.bam, sample3_overlapped.bam**: Bam filtered through Footprints
+**sample1_overlapped.bam, sample2_overlapped.bam, sample3_overlapped.bam**: Bam overlapped with Footprints
 
 **differential_peaks.bed**：differential peaks generated in step8 of [ATAC-seq pipline](https://github.com/jiang-junyao/ATAC-seq-pipline)
 
