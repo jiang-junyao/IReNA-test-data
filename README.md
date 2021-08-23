@@ -1,8 +1,7 @@
 # IReNA test data
 ## scRNA-seq folder:
-scRNA-seq test data, if you want to run IReNA test, you just need to download **seurat_object**. Kmeans_clustering_ENS.txt and, regulatory_relationships.txt and filtered_regulatory_relationships.txt are consequence of IReNA part1, which can be used to check whether your consequence is correct.
 
-**seurat_object.rds**: seurat object, use readRDS() to load it
+**seurat_object.rds**: seurat object, use readRDS() to load it.
 
 ## bulk RNA-seq folder:
 bulk RNA-seq test data
