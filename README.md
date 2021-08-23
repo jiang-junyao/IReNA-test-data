@@ -1,12 +1,11 @@
 # IReNA test data
 ## scRNA-seq folder:
 
-**seurat_object.rds**: seurat object, use readRDS() to load it.
+**seurat_object.rds**: seurat object, including raw counts and normalized data, you can use readRDS() to load it.
 
 ## bulk RNA-seq folder:
-bulk RNA-seq test data
 
-**test_data_RNA-seq.txt**: raw counts of bulk RNA-seq
+**test_data_RNA-seq.txt**: normalized expression profile of bulk RNA-seq data.
 
 ## ATAC-seq folder
 bam file of each sample, differential peaks file of all samples, footprints file of all samples
