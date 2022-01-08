@@ -1,7 +1,7 @@
 # [IReNA](https://github.com/jiang-junyao/IReNA) test data
-## scRNA-seq.zip:
+## seurat_with_time.rds:
 
-**seurat_object.rds**: seurat object, including raw counts and normalized data, you can use readRDS() to load it.
+**seurat_with_time.rds**: seurat object with pseudotime, and is the input of IReNA.
 
 ## bulk RNA-seq.zip:
 
